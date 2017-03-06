@@ -1,0 +1,101 @@
+Event	ID	Name			Wwise Object Path	Notes
+	530129416	teleport			\Default Work Unit\teleport	
+	700963316	tank_stop			\Default Work Unit\tank_stop	
+	1114964412	start_game			\Default Work Unit\start_game	
+	1344794032	impact_destroy			\Default Work Unit\impact_destroy	
+	1641559457	play_environment			\Default Work Unit\play_environment	
+	1784980575	ui_no			\Default Work Unit\ui_no	
+	2145821634	start_beep			\Default Work Unit\start_beep	
+	2224914864	pig_impact			\Default Work Unit\pig_impact	
+	2932040671	play_music			\Default Work Unit\play_music	
+	3032509978	ui_changeanimal			\Default Work Unit\ui_changeanimal	
+	3145893416	tank_start			\Default Work Unit\tank_start	
+	3278493340	stop_beep			\Default Work Unit\stop_beep	
+	3702403660	weapon_fire			\Default Work Unit\weapon_fire	
+	3717848113	end_game			\Default Work Unit\end_game	
+	4030404899	play_explosion			\Default Work Unit\play_explosion	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3893417221	weapon			\Default Work Unit\weapon	
+
+Switch	ID	Name	Switch Group			Notes
+	873374482	alien	weapon			
+	1083682102	cow	weapon			
+	1115118811	pig	weapon			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3826569560	music_state			\Default Work Unit\music_state	
+
+State	ID	Name	State Group			Notes
+	748895195	None	music_state			
+	1521187885	startgame	music_state			
+	4264815106	endgame	music_state			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1240670792	distance			\Default Work Unit\distance	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	13787301	future communicator signal 03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\future communicator signal 03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\ui_changeanimal\future communicator signal 03		18244
+	18402606	boom_layer3_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_03		661564
+	31496629	NAD_VR_Loop	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\NAD_VR_Loop_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\incowming_musique\musique\NAD_VR_Loop\NAD_VR_Loop		13547584
+	40053802	boom_layer2_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_04		793864
+	48936457	boom_layer1_05	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_05		264664
+	49282384	robot gun shot 2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\robot gun shot 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\gun\robot gun shot 2		97736
+	74234849	teleport_p2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\teleport_p2_98F9F046.wem		\Actor-Mixer Hierarchy\Default Work Unit\Teleport\teleport_p2		429968
+	75726147	cow_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\cow_03_9398DA30.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\cow\cow_03		131184
+	112560170	cow_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\cow_01_F8F4FF58.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\cow\cow_01		76282
+	128282623	crash_ice_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_ice_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_ice\crash_ice_03		481048
+	138326077	robot gun shot 1	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\robot gun shot 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\gun\robot gun shot 1		135428
+	150390474	pig_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\pig\pig_04		89270
+	162677348	smallrock_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\smallrock_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_rock\smallrock_01		264664
+	164568501	smallrock_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\smallrock_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_rock\smallrock_03		617676
+	197753008	boom_layer2_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_02		793864
+	201667787	pig_impact_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_impact_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\pig_impact\pig_impact_04		30616
+	206768752	robot gun shot 3	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\robot gun shot 3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\gun\robot gun shot 3		91176
+	225244675	agressive motion cut 2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\agressive motion cut 2_3DEE4E77.wem		\Actor-Mixer Hierarchy\Default Work Unit\Teleport\teleport_layer1\agressive motion cut 2		324952
+	235112250	incowming_wind_loop	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\incowming_wind_loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\incowming_wind_loop		6350464
+	239700162	boom_layer1_06	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_06		198514
+	251964087	cow_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\cow_04_7EED7DC8.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\cow\cow_04		137074
+	319692189	crash_ice_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_ice_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_ice\crash_ice_02		661564
+	343781317	cow_05	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\cow_05_20D986D1.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\cow\cow_05		135738
+	355461513	Droid Metrics Hit 2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\Droid Metrics Hit 2_669329AA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Droid Metrics Hit 2		54104
+	364421663	funny voice 1	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\funny voice 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\alien\funny voice 1		282080
+	396541500	crash_wood_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_wood_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_wood\crash_wood_01		793864
+	475235405	crash_wood_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_wood_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_wood\crash_wood_02		661564
+	511211644	crash_wood_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_wood_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_wood\crash_wood_03		661564
+	513847235	boom_layer3_06	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_06		661564
+	534336369	pig_impact_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_impact_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\pig_impact\pig_impact_01		37228
+	540435415	tankp2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\tankp2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\tank\tank\tankp2		71064
+	544849648	pig_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\pig\pig_03		91944
+	550486975	funny voice 2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\funny voice 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\alien\funny voice 2		282080
+	573197340	boom_layer1_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_03		264664
+	592916057	robot gun shot 4	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\robot gun shot 4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\gun\robot gun shot 4		108676
+	601935123	future communicator signal 04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\future communicator signal 04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\ui_changeanimal\future communicator signal 04		23552
+	623809807	pig squeak 1	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig squeak 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\pig\pig squeak 1		163620
+	628695757	boom_layer3_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_02		678168
+	639235228	mus_incowming_end	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\mus_incowming_end_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\incowming_musique\mus_incowming_end\mus_incowming_end		1058544
+	644385887	boom_layer2_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_01		793864
+	669961365	boom_layer1_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_04		264664
+	673044375	control beep 02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\control beep 02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\beep\control beep 02		8276
+	682827656	pig_impact_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_impact_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\pig_impact\pig_impact_02		41460
+	684807821	crash_ice_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\crash_ice_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_ice\crash_ice_01		529264
+	686645951	pig_impact_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_impact_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\pig_impact\pig_impact_03		46960
+	693810464	boom_layer1_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_01		198514
+	696472994	smallrock_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\smallrock_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\destroy\crash_rock\smallrock_02		396964
+	699679296	boom_layer3_01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_01		661564
+	724389112	boom_layer1_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer1_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer1\boom_layer1_02		198514
+	735679458	pig squeak 2	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig squeak 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\pig\pig squeak 2		181188
+	748301682	pig_impact_05	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\pig_impact_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\pig_impact\pig_impact_05		21320
+	804438975	teleport_p3	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\teleport_p3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Teleport\teleport_p3		264664
+	872849012	tankp1	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\tankp1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\tank\tank\tankp1		73372
+	939308084	boom_layer2_03	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_03		793864
+	948144429	boom_layer3_04	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_04		661564
+	952662084	boom_layer3_05	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer3_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer3\boom_layer3_05		661564
+	957279797	explosion 01	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\explosion 01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\explosion 01		936292
+	974271227	boom_layer2_05	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_05		661564
+	993008249	water_loop	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\water_loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\environment\water_loop		2910664
+	1021404469	tankp3	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\tankp3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\tank\tankp3		149080
+	1027818041	agressive motion cut 1	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\agressive motion cut 1_8E4F6757.wem		\Actor-Mixer Hierarchy\Default Work Unit\Teleport\teleport_layer1\agressive motion cut 1		275664
+	1040655953	cow_02	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\cow_02_41E89B0A.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire\weapon\cow\cow_02		144296
+	1067373045	boom_layer2_06	D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\SFX\boom_layer2_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion\boom_layer2\boom_layer2_06		661564
+

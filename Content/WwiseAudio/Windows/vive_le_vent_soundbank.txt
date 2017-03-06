@@ -1,0 +1,68 @@
+Event	ID	Name			Wwise Object Path	Notes
+	164656025	c3_fall			\Default Work Unit\c3_fall	
+	186670995	c1_fall			\Default Work Unit\c1_fall	
+	210615102	stop_game			\Default Work Unit\stop_game	
+	1114964412	start_game			\Default Work Unit\start_game	
+	1181390628	ui1			\Default Work Unit\ui1	
+	1181390631	ui2			\Default Work Unit\ui2	
+	1462260799	start_splash			\Default Work Unit\start_splash	
+	1853303301	c1			\Default Work Unit\c1	
+	1853303302	c2			\Default Work Unit\c2	
+	1853303303	c3			\Default Work Unit\c3	
+	2339852754	c2_fall			\Default Work Unit\c2_fall	
+	2469837150	wind_start			\Default Work Unit\wind_start	
+	4265863879	girouette			\Default Work Unit\girouette	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3826569560	music_state			\Default Work Unit\music_state	
+
+State	ID	Name	State Group			Notes
+	160038168	splash	music_state			
+	748895195	None	music_state			
+	984691642	ingame	music_state			
+	4264815106	endgame	music_state			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2470328552	intensite			\Default Work Unit\intensite	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	315473907	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence\Wwise Silence	
+	342731613	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_01\Wwise Silence	
+	409775487	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_06\Wwise Silence	
+	562558723	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_04\Wwise Silence	
+	584790583	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\wind\silence\Wwise Silence	
+	900491538	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_03\Wwise Silence	
+	933115094	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_05\Wwise Silence	
+	942248899	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\silence_02\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	18311609	sfx_girouette_03	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_03		352450
+	128993045	sfx_wind_loop	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_wind_loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\wind\vent\sfx_wind_loop		1563692
+	179492917	sfx_Char2_Balance	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char2_Balance_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char2\char2\sfx_Char2_Balance		33470
+	200670485	sfx_char2_fall	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_char2_fall_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char2\sfx_char2_fall		495058
+	204910568	sfx_girouette_06	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_06		371312
+	233941409	sfx_Char2_Balance3	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char2_Balance3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char2\char2\sfx_Char2_Balance3		57166
+	267708170	sfx_Char3_Balance2	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char3_Balance2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char3\char3\sfx_Char3_Balance2		244974
+	292361728	sfx_Char1_Balance3	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char1_Balance3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char1\char1\sfx_Char1_Balance3		56664
+	315514228	sfx_wind_high_loop	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_wind_high_loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\wind\vent\sfx_wind_high_loop		1283656
+	327363641	mus_vlv_intro_100bpm	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\mus_vlv_intro_100bpm_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\music_switch\mus_start\mus_vlv_intro_100bpm\mus_vlv_intro_100bpm		2540304
+	368843528	Run or Score1v2	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\Run or Score1v2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\ui\Run or Score1v2		132444
+	382630817	sfx_char1_fall	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_char1_fall_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char1\sfx_char1_fall		495058
+	427503714	sfx_Char2_Balance2	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char2_Balance2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char2\char2\sfx_Char2_Balance2		57754
+	483932075	sfx_girouette_08	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_08		416276
+	516412218	sfx_girouette_01	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_01		344158
+	530033128	mus_vlv_splash_loop_50bpm	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\mus_vlv_splash_loop_50bpm_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\music_switch\mus_splash\mus_vlv_splash_loop_50bpm\mus_vlv_splash_loop_50bpm		5080464
+	546058076	sfx_Char3_Balance3	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char3_Balance3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char3\char3\sfx_Char3_Balance3		231334
+	693599415	sfx_Char1_Balance	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char1_Balance_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char1\char1\sfx_Char1_Balance		55608
+	713153286	sfx_Char1_Balance2	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char1_Balance2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char1\char1\sfx_Char1_Balance2		52064
+	766581892	mus_vlv_loop	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\mus_vlv_loop_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\music_switch\mus_start\mus_vlv_loop\mus_vlv_loop		11007504
+	787364609	sfx_Char3_Balance	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_Char3_Balance_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char3\char3\sfx_Char3_Balance		271202
+	844639138	mus_vlv_fin_100bpm	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\mus_vlv_fin_100bpm_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\music_switch\mus_fin\mus_vlv_fin_100bpm\mus_vlv_fin_100bpm		1270224
+	854074475	sfx_char3_fall	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_char3_fall_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Personnages\char3\sfx_char3_fall		495058
+	898292137	sfx_girouette_02	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_02		345216
+	924766377	sfx_girouette_04	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_04		314666
+	958240043	sfx_girouette_05	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_05		371854
+	1017283404	mus_vlv_splash_intro_50bpm	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\mus_vlv_splash_intro_50bpm_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\music_switch\mus_splash\mus_vlv_splash_intro_50bpm\mus_vlv_splash_intro_50bpm		2540304
+	1034973397	Run or Score1	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\Run or Score1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\ui\Run or Score1		110392
+	1049217551	sfx_girouette_07	F:\TestP4V\16-3-NAND164-Incowming\Import\TestProjectWwise\.cache\Windows\SFX\sfx_girouette_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\vent\girouette\sfx_girouette_07		317354
+

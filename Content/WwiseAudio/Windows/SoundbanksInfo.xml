@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\</ProjectRoot>
+		<SourceFilesRoot>D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\IncowmingA2016\16-3-NAND164-Incowming\UNREAL\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\IncowmingA2016\16-3-NAND164-Incowming\Import\IncowmingWwise\incowming\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="733432012" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Incowming_SoundBank</ObjectPath>
+			<ShortName>Incowming_SoundBank</ShortName>
+			<Path>Incowming_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3717848113" Name="end_game" ObjectPath="\Events\Default Work Unit\end_game"/>
+				<Event Id="1344794032" Name="impact_destroy" ObjectPath="\Events\Default Work Unit\impact_destroy"/>
+				<Event Id="2224914864" Name="pig_impact" ObjectPath="\Events\Default Work Unit\pig_impact"/>
+				<Event Id="1641559457" Name="play_environment" ObjectPath="\Events\Default Work Unit\play_environment"/>
+				<Event Id="4030404899" Name="play_explosion" ObjectPath="\Events\Default Work Unit\play_explosion"/>
+				<Event Id="2932040671" Name="play_music" ObjectPath="\Events\Default Work Unit\play_music"/>
+				<Event Id="2145821634" Name="start_beep" ObjectPath="\Events\Default Work Unit\start_beep"/>
+				<Event Id="1114964412" Name="start_game" ObjectPath="\Events\Default Work Unit\start_game"/>
+				<Event Id="3278493340" Name="stop_beep" ObjectPath="\Events\Default Work Unit\stop_beep"/>
+				<Event Id="3145893416" Name="tank_start" ObjectPath="\Events\Default Work Unit\tank_start"/>
+				<Event Id="700963316" Name="tank_stop" ObjectPath="\Events\Default Work Unit\tank_stop"/>
+				<Event Id="530129416" Name="teleport" ObjectPath="\Events\Default Work Unit\teleport"/>
+				<Event Id="3032509978" Name="ui_changeanimal" ObjectPath="\Events\Default Work Unit\ui_changeanimal"/>
+				<Event Id="1784980575" Name="ui_no" ObjectPath="\Events\Default Work Unit\ui_no"/>
+				<Event Id="3702403660" Name="weapon_fire" ObjectPath="\Events\Default Work Unit\weapon_fire"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="13787301" Language="SFX">
+					<ShortName>future communicator signal 03.wav</ShortName>
+					<Path>SFX\future communicator signal 03_9E69E797.wem</Path>
+				</File>
+				<File Id="18402606" Language="SFX">
+					<ShortName>boom_layer3_03.wav</ShortName>
+					<Path>SFX\boom_layer3_03_9E69E797.wem</Path>
+				</File>
+				<File Id="31496629" Language="SFX">
+					<ShortName>NAD_VR_Loop.wav</ShortName>
+					<Path>SFX\NAD_VR_Loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="40053802" Language="SFX">
+					<ShortName>boom_layer2_04.wav</ShortName>
+					<Path>SFX\boom_layer2_04_9E69E797.wem</Path>
+				</File>
+				<File Id="48936457" Language="SFX">
+					<ShortName>boom_layer1_05.wav</ShortName>
+					<Path>SFX\boom_layer1_05_9E69E797.wem</Path>
+				</File>
+				<File Id="49282384" Language="SFX">
+					<ShortName>robot gun shot 2.wav</ShortName>
+					<Path>SFX\robot gun shot 2_9E69E797.wem</Path>
+				</File>
+				<File Id="74234849" Language="SFX">
+					<ShortName>teleport_p2.wav</ShortName>
+					<Path>SFX\teleport_p2_98F9F046.wem</Path>
+				</File>
+				<File Id="75726147" Language="SFX">
+					<ShortName>cow_03.wav</ShortName>
+					<Path>SFX\cow_03_9398DA30.wem</Path>
+				</File>
+				<File Id="112560170" Language="SFX">
+					<ShortName>cow_01.wav</ShortName>
+					<Path>SFX\cow_01_F8F4FF58.wem</Path>
+				</File>
+				<File Id="128282623" Language="SFX">
+					<ShortName>crash_ice_03.wav</ShortName>
+					<Path>SFX\crash_ice_03_9E69E797.wem</Path>
+				</File>
+				<File Id="138326077" Language="SFX">
+					<ShortName>robot gun shot 1.wav</ShortName>
+					<Path>SFX\robot gun shot 1_9E69E797.wem</Path>
+				</File>
+				<File Id="150390474" Language="SFX">
+					<ShortName>pig_04.wav</ShortName>
+					<Path>SFX\pig_04_9E69E797.wem</Path>
+				</File>
+				<File Id="162677348" Language="SFX">
+					<ShortName>smallrock_01.wav</ShortName>
+					<Path>SFX\smallrock_01_9E69E797.wem</Path>
+				</File>
+				<File Id="164568501" Language="SFX">
+					<ShortName>smallrock_03.wav</ShortName>
+					<Path>SFX\smallrock_03_9E69E797.wem</Path>
+				</File>
+				<File Id="197753008" Language="SFX">
+					<ShortName>boom_layer2_02.wav</ShortName>
+					<Path>SFX\boom_layer2_02_9E69E797.wem</Path>
+				</File>
+				<File Id="201667787" Language="SFX">
+					<ShortName>pig_impact_04.wav</ShortName>
+					<Path>SFX\pig_impact_04_9E69E797.wem</Path>
+				</File>
+				<File Id="206768752" Language="SFX">
+					<ShortName>robot gun shot 3.wav</ShortName>
+					<Path>SFX\robot gun shot 3_9E69E797.wem</Path>
+				</File>
+				<File Id="225244675" Language="SFX">
+					<ShortName>agressive motion cut 2.wav</ShortName>
+					<Path>SFX\agressive motion cut 2_3DEE4E77.wem</Path>
+				</File>
+				<File Id="235112250" Language="SFX">
+					<ShortName>incowming_wind_loop.wav</ShortName>
+					<Path>SFX\incowming_wind_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="239700162" Language="SFX">
+					<ShortName>boom_layer1_06.wav</ShortName>
+					<Path>SFX\boom_layer1_06_9E69E797.wem</Path>
+				</File>
+				<File Id="251964087" Language="SFX">
+					<ShortName>cow_04.wav</ShortName>
+					<Path>SFX\cow_04_7EED7DC8.wem</Path>
+				</File>
+				<File Id="319692189" Language="SFX">
+					<ShortName>crash_ice_02.wav</ShortName>
+					<Path>SFX\crash_ice_02_9E69E797.wem</Path>
+				</File>
+				<File Id="343781317" Language="SFX">
+					<ShortName>cow_05.wav</ShortName>
+					<Path>SFX\cow_05_20D986D1.wem</Path>
+				</File>
+				<File Id="355461513" Language="SFX">
+					<ShortName>Droid Metrics Hit 2.wav</ShortName>
+					<Path>SFX\Droid Metrics Hit 2_669329AA.wem</Path>
+				</File>
+				<File Id="364421663" Language="SFX">
+					<ShortName>funny voice 1.wav</ShortName>
+					<Path>SFX\funny voice 1_9E69E797.wem</Path>
+				</File>
+				<File Id="396541500" Language="SFX">
+					<ShortName>crash_wood_01.wav</ShortName>
+					<Path>SFX\crash_wood_01_9E69E797.wem</Path>
+				</File>
+				<File Id="475235405" Language="SFX">
+					<ShortName>crash_wood_02.wav</ShortName>
+					<Path>SFX\crash_wood_02_9E69E797.wem</Path>
+				</File>
+				<File Id="511211644" Language="SFX">
+					<ShortName>crash_wood_03.wav</ShortName>
+					<Path>SFX\crash_wood_03_9E69E797.wem</Path>
+				</File>
+				<File Id="513847235" Language="SFX">
+					<ShortName>boom_layer3_06.wav</ShortName>
+					<Path>SFX\boom_layer3_06_9E69E797.wem</Path>
+				</File>
+				<File Id="534336369" Language="SFX">
+					<ShortName>pig_impact_01.wav</ShortName>
+					<Path>SFX\pig_impact_01_9E69E797.wem</Path>
+				</File>
+				<File Id="540435415" Language="SFX">
+					<ShortName>tankp2.wav</ShortName>
+					<Path>SFX\tankp2_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="544849648" Language="SFX">
+					<ShortName>pig_03.wav</ShortName>
+					<Path>SFX\pig_03_9E69E797.wem</Path>
+				</File>
+				<File Id="550486975" Language="SFX">
+					<ShortName>funny voice 2.wav</ShortName>
+					<Path>SFX\funny voice 2_9E69E797.wem</Path>
+				</File>
+				<File Id="573197340" Language="SFX">
+					<ShortName>boom_layer1_03.wav</ShortName>
+					<Path>SFX\boom_layer1_03_9E69E797.wem</Path>
+				</File>
+				<File Id="592916057" Language="SFX">
+					<ShortName>robot gun shot 4.wav</ShortName>
+					<Path>SFX\robot gun shot 4_9E69E797.wem</Path>
+				</File>
+				<File Id="601935123" Language="SFX">
+					<ShortName>future communicator signal 04.wav</ShortName>
+					<Path>SFX\future communicator signal 04_9E69E797.wem</Path>
+				</File>
+				<File Id="623809807" Language="SFX">
+					<ShortName>pig squeak 1.wav</ShortName>
+					<Path>SFX\pig squeak 1_9E69E797.wem</Path>
+				</File>
+				<File Id="628695757" Language="SFX">
+					<ShortName>boom_layer3_02.wav</ShortName>
+					<Path>SFX\boom_layer3_02_9E69E797.wem</Path>
+				</File>
+				<File Id="639235228" Language="SFX">
+					<ShortName>mus_incowming_end.wav</ShortName>
+					<Path>SFX\mus_incowming_end_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="644385887" Language="SFX">
+					<ShortName>boom_layer2_01.wav</ShortName>
+					<Path>SFX\boom_layer2_01_9E69E797.wem</Path>
+				</File>
+				<File Id="669961365" Language="SFX">
+					<ShortName>boom_layer1_04.wav</ShortName>
+					<Path>SFX\boom_layer1_04_9E69E797.wem</Path>
+				</File>
+				<File Id="673044375" Language="SFX">
+					<ShortName>control beep 02.wav</ShortName>
+					<Path>SFX\control beep 02_9E69E797.wem</Path>
+				</File>
+				<File Id="682827656" Language="SFX">
+					<ShortName>pig_impact_02.wav</ShortName>
+					<Path>SFX\pig_impact_02_9E69E797.wem</Path>
+				</File>
+				<File Id="684807821" Language="SFX">
+					<ShortName>crash_ice_01.wav</ShortName>
+					<Path>SFX\crash_ice_01_9E69E797.wem</Path>
+				</File>
+				<File Id="686645951" Language="SFX">
+					<ShortName>pig_impact_03.wav</ShortName>
+					<Path>SFX\pig_impact_03_9E69E797.wem</Path>
+				</File>
+				<File Id="693810464" Language="SFX">
+					<ShortName>boom_layer1_01.wav</ShortName>
+					<Path>SFX\boom_layer1_01_9E69E797.wem</Path>
+				</File>
+				<File Id="696472994" Language="SFX">
+					<ShortName>smallrock_02.wav</ShortName>
+					<Path>SFX\smallrock_02_9E69E797.wem</Path>
+				</File>
+				<File Id="699679296" Language="SFX">
+					<ShortName>boom_layer3_01.wav</ShortName>
+					<Path>SFX\boom_layer3_01_9E69E797.wem</Path>
+				</File>
+				<File Id="724389112" Language="SFX">
+					<ShortName>boom_layer1_02.wav</ShortName>
+					<Path>SFX\boom_layer1_02_9E69E797.wem</Path>
+				</File>
+				<File Id="735679458" Language="SFX">
+					<ShortName>pig squeak 2.wav</ShortName>
+					<Path>SFX\pig squeak 2_9E69E797.wem</Path>
+				</File>
+				<File Id="748301682" Language="SFX">
+					<ShortName>pig_impact_05.wav</ShortName>
+					<Path>SFX\pig_impact_05_9E69E797.wem</Path>
+				</File>
+				<File Id="804438975" Language="SFX">
+					<ShortName>teleport_p3.wav</ShortName>
+					<Path>SFX\teleport_p3_9E69E797.wem</Path>
+				</File>
+				<File Id="872849012" Language="SFX">
+					<ShortName>tankp1.wav</ShortName>
+					<Path>SFX\tankp1_9E69E797.wem</Path>
+				</File>
+				<File Id="939308084" Language="SFX">
+					<ShortName>boom_layer2_03.wav</ShortName>
+					<Path>SFX\boom_layer2_03_9E69E797.wem</Path>
+				</File>
+				<File Id="948144429" Language="SFX">
+					<ShortName>boom_layer3_04.wav</ShortName>
+					<Path>SFX\boom_layer3_04_9E69E797.wem</Path>
+				</File>
+				<File Id="952662084" Language="SFX">
+					<ShortName>boom_layer3_05.wav</ShortName>
+					<Path>SFX\boom_layer3_05_9E69E797.wem</Path>
+				</File>
+				<File Id="957279797" Language="SFX">
+					<ShortName>explosion 01.wav</ShortName>
+					<Path>SFX\explosion 01_9E69E797.wem</Path>
+				</File>
+				<File Id="974271227" Language="SFX">
+					<ShortName>boom_layer2_05.wav</ShortName>
+					<Path>SFX\boom_layer2_05_9E69E797.wem</Path>
+				</File>
+				<File Id="993008249" Language="SFX">
+					<ShortName>water_loop.wav</ShortName>
+					<Path>SFX\water_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1021404469" Language="SFX">
+					<ShortName>tankp3.wav</ShortName>
+					<Path>SFX\tankp3_9E69E797.wem</Path>
+				</File>
+				<File Id="1027818041" Language="SFX">
+					<ShortName>agressive motion cut 1.wav</ShortName>
+					<Path>SFX\agressive motion cut 1_8E4F6757.wem</Path>
+				</File>
+				<File Id="1040655953" Language="SFX">
+					<ShortName>cow_02.wav</ShortName>
+					<Path>SFX\cow_02_41E89B0A.wem</Path>
+				</File>
+				<File Id="1067373045" Language="SFX">
+					<ShortName>boom_layer2_06.wav</ShortName>
+					<Path>SFX\boom_layer2_06_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
